@@ -1,0 +1,47 @@
+(Verse 1)
+In the land of code, where languages unfold,
+There's a tale of power, in a story to be told.
+Rust emerges, with strength untold,
+A language so robust, a story to be bold.
+
+(Chorus)
+Oh, Rust, you're the guardian of memory,
+With safety and speed, you set the programmers free.
+In the syntax of steel, and the heart of the machine,
+Rust, oh Rust, your elegance is keen.
+
+(Verse 2)
+Through lifetimes of bugs and memory woes,
+Rust arrives, breaking all the foes.
+No more segfaults, no more despair,
+In the world of Rust, we breathe fresh air.
+
+(Chorus)
+Oh, Rust, you're the guardian of memory,
+With safety and speed, you set the programmers free.
+In the syntax of steel, and the heart of the machine,
+Rust, oh Rust, your elegance is keen.
+
+(Bridge)
+Borrow checker whispers, like a vigilant guide,
+Ensuring lifetimes are managed with pride.
+Ownership, lifetimes, and borrowing dance,
+In the realm of Rust, where errors have no chance.
+
+(Verse 3)
+Threads and concurrency, a symphony so grand,
+Fearlessly taming parallel lands.
+No more races, no more strife,
+Rust, you carve the path to a stable life.
+
+(Chorus)
+Oh, Rust, you're the guardian of memory,
+With safety and speed, you set the programmers free.
+In the syntax of steel, and the heart of the machine,
+Rust, oh Rust, your elegance is keen.
+
+(Outro)
+So here's to Rust, with gratitude we sing,
+A language of power, to which we cling.
+In the world of bits, where systems align,
+Rust, oh Rust, forever you'll shine.
